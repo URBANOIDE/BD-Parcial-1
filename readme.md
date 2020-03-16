@@ -1,4 +1,4 @@
-#Primer Parcial de base de datos
+# Primer Parcial de base de datos
 
 1. Realice la normalización del campo categoria de la base de datos que se encuentra en el archivo db.sql, tenga en cuenta en matener la integridad de información, y que no haya perdida de registros
 
